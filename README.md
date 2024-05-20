@@ -69,12 +69,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrajpithwa&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vrajpithwa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/vrajpithwa/vrajpithwa/output/snake.svg" alt="Snake animation" />
+
 
 ###
