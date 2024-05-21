@@ -23,6 +23,9 @@
 </div>
 
 ###
+<div align="center">
+<a href="https://wakatime.com/@af191449-9304-4753-a504-f21741e865ec"><img src="https://wakatime.com/badge/user/af191449-9304-4753-a504-f21741e865ec.svg" alt="Total time coded since Jun 28 2022" /></a>
+</div>
 
 <h1 align="center">hey there 👋</h1>
 
