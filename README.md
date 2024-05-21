@@ -16,6 +16,12 @@
   </a>
 </div>
 
+
+###
+<div>
+  <figure><embed src="https://wakatime.com/share/@vraj_pithwa/d44c834b-9ce3-4af0-8fda-23b62f2ebd7e.svg"></embed></figure>
+</div>
+###
 ###
 
 <div align="center">
