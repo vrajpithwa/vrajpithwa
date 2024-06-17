@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/vrajpithwa/xsol05/blob/main/1697478242884.jpeg"  />
+  <img height="100%" src="https://github.com/vrajpithwa/xsol05/blob/main/1697478242884.jpeg"  />
 </div>
 
 ###
