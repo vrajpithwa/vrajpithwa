@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I'm Vraj Pithwa from Surendranagar Gujarat<br><br>- 🔭 I’m perusing B.Tech <br>- 📚 I'm currently learning Informationand Communication Technology <br>- ⚡ In my free time I Explore</p>
+<p align="left">I'm Vraj Pithwa from Surendranagar Gujarat<br><br>- 🔭 I’m perusing B.Tech <br>- 📚 I'm currently learning Information and Communication Technology <br>- ⚡ In my free time I Explore</p>
 
 ###
 
