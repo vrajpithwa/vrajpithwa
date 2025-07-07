@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Vraj Pithwa
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;ICT+Student+%F0%9F%93%9A;Tech+Explorer+%F0%9F%94%8D;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Tech+Explorer+%F0%9F%94%8D;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
 
 
